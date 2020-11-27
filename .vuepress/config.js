@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Xochiapulco y sus historia',
+    title: 'Xochiapulco',
     description: 'Xochiapulco defensor de la tierra, la libertad y el derecho.',
     base: '/',
 
