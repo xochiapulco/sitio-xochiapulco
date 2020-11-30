@@ -11,13 +11,17 @@ module.exports = {
                 ariaLabel: 'Contenido Menu',
                 items: [
                     { text: 'Presentación', link: '/objetivo/' },
-                    { text: 'Apuntes', link: '/apuntes/' },
+                    { text: 'Libro', link: '/apuntes/' },
                     { text: 'Colaboradores', link: '/colaboradores/' },
                 ],
             },
         ],
         displayAllHeaders: false,
         sidebar: {
+            '/objetivo/': [
+                '',
+                '/apuntes/'
+            ],
             '/apuntes/': [
                 '',
                 'datosgeograficos',
@@ -25,7 +29,22 @@ module.exports = {
                 'glosario',
                 '/biografias/',
             ],
+            '/colaboradores/': [
+                '',
+                '/objetivo/',
+                '/apuntes/'
+            ]
         },
+        plugins: [
+            '@vuepress/medium-zoom',
+            [
+              '@vuepress/google-analytics',
+              {
+                'ga': 'G-0X0PF7FZF2'
+              }
+            ]
+        ],        
         smoothScroll: true,
+        lastUpdated: 'Última Actualización',
     },
 };

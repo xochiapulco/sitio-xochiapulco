@@ -28,3 +28,5 @@ Xochiapulco es el nombre compuesto de las voces náhuatl “Xochitl”, flor, y 
 ## Extensión Territorial
 
 Tiene una superficie de 110.99 km2, que lo ubica en el lugar 144 en cuanto a extensión territorial en lo que se refiere con los demás municipios del Estado.
+
+<Licence />

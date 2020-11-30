@@ -8,7 +8,8 @@ tags:
     - recomendaciones
 ---
 
-# Introducción
+# La História de Xochiapulco
+## Introducción
 
 A lo largo de muchos años he ido recopilando información de diferentes documentos, principalmente de las memorias escritas y narradas por mi difunto padre el Profr. Sergio Adalberto Gutiérrez Español (1889-1976); originario de este municipio.
 
@@ -21,3 +22,6 @@ Estuvo presente en el momento del fallecimiento del mencionado general, quien le
 > …“Siento que voy a partir al viaje sin retorno, te pido, que me despidas de todos los vecinos de Xochiapulco, que me perdonen por alguna mala acción que haya cometido en contra de ellos, pero lo que más les recomiendo es que jamás lleguen a manchar la bandera que con tanto heroísmo han defendido sus antepasados”…
 
 Palabras del General Juan Francisco Lucas en su lecho de muerte.
+
+
+<Licence />

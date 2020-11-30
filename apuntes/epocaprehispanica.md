@@ -1,5 +1,4 @@
 # Época Prehispánica
-[INTRO]
 
 ## Primeros Pobladores
 Los códices Ramírez y Vaticano así como los cronistas Ixtlilxochit y Muñoz Camargo dieron a conocer que la Sierra Norte del Estado de Puebla estuvo conformada por grandes extensiones de selvas vírgenes impenetrables, invadidas por tribus teochichimecas o nahuatlacas derivadas de las huestes de Xólotl allá por el año de 1325. 
@@ -83,3 +82,6 @@ En el siglo XII hubo una inmigración chichimeca, según se narra en el informe 
 Los inmigrantes chichimecas atravesaron el río que existe por estas regiones y que en su idioma náhuatl llamaron “Apolco” (río caudaloso) que se castellanizo en “Apulco”; al oriente de este río existe una meseta donde abundaba una hierba de flor amarilla pequeña muy llamativa, la llamaron “Xochiapulco”, palabra compuesta que significa lugar en donde abunda la flor del río caudaloso y como ya se ha mencionado, estas tierras  pertenecían al calpulli de Teteltipan (Las lomas), se dedicaron a la caza de animales, a la recolección de frutas y plantas comestibles.
 
 Por estas tierras cruzaba un camino que conducía a la sede del Imperio Azteca, la gran Tenochtitlán; los chichimecas atacaban a los caminantes y les cortaban la cabeza en un lugar llamado Tequextecoyan (“lugar donde cortan cabezas”); Olintecutli cacique de Tlatlactepetl, mandó a sus guerreros a someterlos, acordó con ellos que las tierras les serían cedidas bajo la condición de dejar los atracos, la vida errante, para así dedicarse a protegerlas y cultivarlas, considerándolos como dueños desde esa época.
+
+
+<Licence />
