@@ -4,7 +4,7 @@
   "description": "Documentos históricos",
   "main": "index.js",
   "scripts": {
-    "start": "vuepress dev",
+    "dev": "vuepress dev",
     "build": "vuepress build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
