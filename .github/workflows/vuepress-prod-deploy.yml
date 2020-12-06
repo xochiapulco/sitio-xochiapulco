@@ -3,7 +3,7 @@ name: Build and Deploy [PROD]
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-and-deploy:
@@ -16,7 +16,7 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: xochiapulco/xochiapulco.github.io
+        TARGET_REPO: xochiapulco/temp
         TARGET_BRANCH: main
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: .vuepress/dist/
