@@ -1,7 +1,7 @@
 <template>
     <div class="custompic">
         <div>
-            <img :src="image" :width="w" :height="h" :title="label">
+            <img :src="$withBase(image)" :width="w" :height="h" :title="label">
         </div>
         <div class="caption" >{{ label }}</div>       
     </div>
