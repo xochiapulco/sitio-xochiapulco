@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Xochiapulco',
     description: 'Xochiapulco defensor de la tierra, la libertad y el derecho.',
-    base: '/',
+    base: '/sitio-xochiapulco',
 
     themeConfig: {
         nav: [
