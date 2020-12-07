@@ -15,5 +15,4 @@ features:
 footer: null
 ---
 
-
-<Licence />
+<Other />

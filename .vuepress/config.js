@@ -2,7 +2,23 @@ module.exports = {
     title: 'Xochiapulco',
     description: 'Xochiapulco defensor de la tierra, la libertad y el derecho.',
     base: '/',
-
+    head: [
+        [
+            'link',
+            {
+                rel: 'stylesheet',
+                href: 'https://use.fontawesome.com/releases/v5.14.0/js/all.js',
+            },
+        ],
+        [
+            'link',
+            {
+                rel: 'stylesheet',
+                href:
+                    'https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css',
+            },
+        ],
+    ],
     themeConfig: {
         nav: [
             { text: 'Inicio', link: '/' },
@@ -18,10 +34,7 @@ module.exports = {
         ],
         displayAllHeaders: false,
         sidebar: {
-            '/objetivo/': [
-                '',
-                '/apuntes/'
-            ],
+            '/objetivo/': ['', '/apuntes/'],
             '/apuntes/': [
                 '',
                 'datosgeograficos',
@@ -29,21 +42,17 @@ module.exports = {
                 'glosario',
                 '/biografias/',
             ],
-            '/colaboradores/': [
-                '',
-                '/objetivo/',
-                '/apuntes/'
-            ]
+            '/colaboradores/': ['', '/objetivo/', '/apuntes/'],
         },
         plugins: [
             '@vuepress/medium-zoom',
             [
-              '@vuepress/google-analytics',
-              {
-                'ga': 'G-0X0PF7FZF2'
-              }
-            ]
-        ],        
+                '@vuepress/google-analytics',
+                {
+                    ga: 'G-0X0PF7FZF2',
+                },
+            ],
+        ],
         smoothScroll: true,
         lastUpdated: 'Última Actualización',
     },
