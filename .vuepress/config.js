@@ -13,6 +13,7 @@ module.exports = {
                     { text: 'Presentación', link: '/objetivo/' },
                     { text: 'Libro', link: '/apuntes/' },
                     { text: 'Colaboradores', link: '/colaboradores/' },
+                    { text: 'Contacto', link: '/contacto/'}
                 ],
             },
         ],
@@ -26,6 +27,7 @@ module.exports = {
                 '',
                 'datosgeograficos',
                 'epocaprehispanica',
+                'dominacionespanola',
                 'glosario',
                 '/biografias/',
             ],
