@@ -100,3 +100,9 @@ A los pocos años de la conquista, el cacique de **Teteltipan** dependiente de *
 El gobierno español declaró baldías las tierras del grupo rebelde a finales del siglo XVIII, se las otorgó a una familia española de apellido Salgado, para formar las haciendas de **La Manzanilla** y **Xochiapulco**; cerca de los actuales barrios de *Yautetelco, Cuauximaloyan e Ixehuaco*; que más tarde formaron parte del municipio de **Xochiapulco**.
 
 
+> .."Probablemente lo que hoy se llama Xochiapulco nunca fue habitado por españoles y no fue sino después de la independencia cuando se constituyó en hacienda perteneciente a Zacapoaxtla, siendo sus últimos poseedores la familia Salgado, de la expresada ciudad de Zacapoaxtla, de la cual, viven algunos miembros en Tlatlauqui y en la misma Zacapoaxtla."...
+>
+>
+> *Manuscrito original del profesor Manuel Pozos 1904, apartados 1-23.*
+>
+
