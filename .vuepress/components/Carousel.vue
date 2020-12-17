@@ -2,7 +2,9 @@
     <div class="card">
         <img :src="picture[0].img" :alt="picture[0].alt" class="pic" />
         <div class="container">
-            <div class="card-title">{{ picture[0].header }}</div>
+            <div class="card-title">
+                {{ picture[0].header }}
+            </div>
             <div class="card-body">
                 {{ picture[0].excerpt }}
             </div>
@@ -42,6 +44,7 @@ export default {
 
 <style scoped>
 .card {
+    position: relative;
     width: 100%;
     margin-bottom: 10px;
     background-color: white;
@@ -68,45 +71,9 @@ export default {
 }
 
 img.pic {
-    width: auto;
+    width: 80%;
+    height: auto;
+    max-height: 100%;
     margin: 0px auto;
 }
-
-/*
-.footnote {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 14px;
-    color: #f8f8f8;
-    background-color: rgba(61, 61, 61, 0.7);
-    margin-top: 5px;
-    margin-bottom: 10px;
-    padding: 5px;
-    text-align: justify;
-}
-
-@media screen (max-width: 419px) {
-    .sm-size-device {
-        display: block;
-    }
-
-    .md-size-device {
-        display: none;
-    }
-}
-
-@media screen (min-width: 420px) {
-    .sm-size-device {
-        display: none;
-    }
-
-    .md-size-device {
-        display: block;
-    }
-}
-
-@media screen and (min-width: 768px) {
-    body {
-        background: rgba(0, 255, 0, 0.25);
-    }
-} */
 </style>
