@@ -39,6 +39,11 @@ A principios de 1852 y regresando de una entrevista con las autoridades estatale
 
 Al instalarse un Juzgado de esta categoría en Zacapoaxtla, fue trasladado a ese municipio junto con su proceso. Allí permaneció hasta finales de septiembre de 1852, cuando un día a la media noche, los vecinos de las tres rancherías (**Cuacualaxtla, Cuautecomaco y Texococo**) tomaron por asalto la cárcel (que estaba fuertemente custodiada) y lo liberaron junto con todos los presos. Esta acción provocó el inicio de un fuerte conflicto con las autoridades reaccionarias de Zacapoaxtla, derivando en varios enfrentamientos armados y que duró muchos años.
 
+> 12. Una vez salidos de la prisión, los de Zacapoaxtla vinieron persiguiéndolos hasta estos rumbos y siguió la guerra. No tenían los de aquí sino unas seis u ocho armas de fuego y los garrotes que constituyeron su principal defensa. 
+
+> Profesor Manuel Pozos, 1904, apartado 12, *HISTORIA SUSCINTA DE LA POBLACIÓN*, Xochiapulco, Puebla, México.
+
+
 En 1853, don **Jose Manuel Lucas** hizo otro viaje acompañado de su hijo **Juan Fransisco Lucas** para continuar con sus gestiones ante el dictador Antonio López de Santa Anna, pero sin resultados favorables, siempre les contestó que la tierra reclamada sería devuelta a sus legítimos dueños; pero nunca llegó a cumplir este ofrecimiento.
 
 ## Adhesión al Partido Liberal.
