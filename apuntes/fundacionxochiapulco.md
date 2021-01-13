@@ -41,7 +41,7 @@ Al instalarse un Juzgado de esta categoría en Zacapoaxtla, fue trasladado a ese
 
 > 12. Una vez salidos de la prisión, los de Zacapoaxtla vinieron persiguiéndolos hasta estos rumbos y siguió la guerra. No tenían los de aquí sino unas seis u ocho armas de fuego y los garrotes que constituyeron su principal defensa. 
 
-> Profesor Manuel Pozos, 1904, apartado 12, *HISTORIA SUSCINTA DE LA POBLACIÓN*, Xochiapulco, Puebla, México.
+> Profesor Manuel Pozos, 1904, apartado 12, *HISTORIA SUCINTA DE LA POBLACIÓN*, Xochiapulco, Puebla, México.
 
 
 En 1853, don **Jose Manuel Lucas** hizo otro viaje acompañado de su hijo **Juan Fransisco Lucas** para continuar con sus gestiones ante el dictador Antonio López de Santa Anna, pero sin resultados favorables, siempre les contestó que la tierra reclamada sería devuelta a sus legítimos dueños; pero nunca llegó a cumplir este ofrecimiento.
